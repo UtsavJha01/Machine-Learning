@@ -5,7 +5,7 @@ df1 = pd.DataFrame({
     'Utsav':["Virat",29]
 })
 df2 = pd.DataFrame({
-    'Utsav':["Minakshi",43]
+    'Utsav':["Peter",43]
 })
 
 print(pd.concat([df1,df2]))

@@ -3,7 +3,7 @@ import pandas as pd
 
 print("Using Dictionary: ")
 data={
-    "name":["Utsav", "Minakshi","Peter","Virat"],
+    "name":["Utsav", "Tony","Peter","Virat"],
     "age" :[21,19,24,38],
     "city":["Motihari", "Bhagalpur","Queens","London"],
 }
@@ -15,7 +15,7 @@ print("Using Data List: ")
 
 data_list=[
     ['Utsav',21,'Motihari'],
-    ['Minakshi',19,'Bhagalpur'],
+    ['Tony',19,'Bhagalpur'],
     ['Peter',24,'Queens'],
     ['Virat',38,'London']
 ]

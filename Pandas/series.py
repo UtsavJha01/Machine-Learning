@@ -6,7 +6,7 @@ my_list = [10,20,30]
 arr = np.array([10,20,30])
 my_dict = {
     "Utsav":10,
-    "Minakshi":20,
+    "Peter":20,
     "Virat":30
 }
 #Creating Series with using List:
